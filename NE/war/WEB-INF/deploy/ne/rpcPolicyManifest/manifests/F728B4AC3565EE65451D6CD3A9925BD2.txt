@@ -1,0 +1,2 @@
+serviceClass: co.com.nuevaera.client.NEService
+path: C9436E38F9927605F8F4621058AB51E3.gwt.rpc
